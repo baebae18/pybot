@@ -1,2 +1,4 @@
-{"token": "봇토큰"},
-{"stdictKey": "표준국어대사전 API 키(선택)"}
+{
+    "token": "봇토큰",
+    "stdictKey": "표준국어대사전 API 키(선택)"
+}
