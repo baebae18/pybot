@@ -53,7 +53,7 @@ TOKEN = os.environ.get('DISCORD_TOKEN') or _CONFIG_FILE.get('token')
 STDICT_KEY: Optional[str] = _CONFIG_FILE.get('stdictKey') or None
 
 # 소유자 디스코드 ID
-OWNER_IDS = {1550921230008324097, 1558550236643856407}
+OWNER_IDS = {소유자_디스코드_ID}
 
 
 def is_owner_id(i) -> bool:
